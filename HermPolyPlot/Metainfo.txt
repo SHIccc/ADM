@@ -1,0 +1,19 @@
+
+Name of QuantLet : HermPolyPlot
+
+Published in : Test Book
+
+Description : 'Plots the first 4 Hermite polynomials on the given grid of values, probabilistic version.'
+
+Keywords : 'basis, orthogonal series, graphical representation, probability, plot'
+
+See also : 
+
+Author : Sergey Nasekin, Katerina Papagiannouli
+
+Submitted :
+
+Datafile : 
+
+Example :
+- Plot of the first 4 Hermite polynomials
